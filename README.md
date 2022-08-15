@@ -8,6 +8,6 @@
 
 Estudos desenvolvidos durante o bootcamp da Amazon, AWS re/Start ministrado pela Campinho Digital.
 
-Códigos escritos em Python utilizando a IDE da AWS, Cloud.
+Códigos escritos em Python utilizando a IDE da AWS, Cloud9.
 
 Documentação oficial: AWS https://docs.aws.amazon.com/console/cloud9/
