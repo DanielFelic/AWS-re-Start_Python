@@ -6,9 +6,8 @@
  ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to AWS Cloud9!
+Estudos desenvolvidos durante o bootcamp da Amazon, AWS re/Start ministrado pela Campinho Digital.
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+Códigos escritos em Python utilizando a IDE da AWS, Cloud.
 
-Happy coding!
+Documentação oficial: AWS https://docs.aws.amazon.com/console/cloud9/
